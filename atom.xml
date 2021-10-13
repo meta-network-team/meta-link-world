@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>link的MetaSpace</title>
+  
+  <subtitle>关于一切</subtitle>
+  <link href="https://thisislink1.metaspaces.life/atom.xml" rel="self"/>
+  
+  <link href="https://thisislink1.metaspaces.life/"/>
+  <updated>2021-10-13T12:01:13.011Z</updated>
+  <id>https://thisislink1.metaspaces.life/</id>
+  
+  <author>
+    <name>林小可可</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Meta Space</title>
+    <link href="https://thisislink1.metaspaces.life/post/hello-meta-space.html"/>
+    <id>https://thisislink1.metaspaces.life/post/hello-meta-space.html</id>
+    <published>2021-10-13T12:01:13.011Z</published>
+    <updated>2021-10-13T12:01:13.011Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to Meta Space!</p><h2 id="Quick-Start">Quick Start</h2><p>WIP</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to Meta Space!&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;Quick Start&lt;/h2&gt;
+&lt;p&gt;WIP&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Generated" scheme="https://thisislink1.metaspaces.life/categories/Generated/"/>
+    
+    
+    <category term="Meta Space" scheme="https://thisislink1.metaspaces.life/tags/Meta-Space/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Matataki Governace 治理委员会（测试版）上线</title>
+    <link href="https://thisislink1.metaspaces.life/post/Matataki-Governace-%E6%B2%BB%E7%90%86%E5%A7%94%E5%91%98%E4%BC%9A%EF%BC%88%E6%B5%8B%E8%AF%95%E7%89%88%EF%BC%89%E4%B8%8A%E7%BA%BF.html"/>
+    <id>https://thisislink1.metaspaces.life/post/Matataki-Governace-%E6%B2%BB%E7%90%86%E5%A7%94%E5%91%98%E4%BC%9A%EF%BC%88%E6%B5%8B%E8%AF%95%E7%89%88%EF%BC%89%E4%B8%8A%E7%BA%BF.html</id>
+    <published>2021-10-12T14:52:46.000Z</published>
+    <updated>2021-10-12T14:52:46.213Z</updated>
+    
+    <content type="html"><![CDATA[<p>[TOC]</p><p>Matataki 是一个为创作者打创造的 公开 永存 的数字作品库。2年多以来 Matataki 持续在和所有用户们共同探索下一代价值互联网时代中的“内容”和“创作者”生态形式，我们结合 Fan票（个人发行代币）做出了各种前所未有的功能尝试，为创作者建立独立于平台的链上个人价值 。我们不仅在 Matataki 本站持续推出各种基于Fan票和内容创作结合的功能点，另外还基于 Fan票 开发了各种实验性的 DAPP（10款），以及一套完整的 个人代币从发行到治理的 工作流 。直到现在 Matataki 依然是在 个人发行代币 领域中，对原生应用层探索最为深入的产品之一。</p><p>在上一期产品发布中，我们推出的 Matataki Quest DAPP 为Fan票人提供了一套任务发布系统，我们非常高兴能够看到该功能受到了用户的积极参与以及支持。时隔不久，新DAPP Matataki Governace 也来啦！这次给大家带来的是一个基于Fan票的DAO产品，这并非<a href="https://matataki-dao.netlify.app/#/">为Fan票发行者打造的运营工具</a>，而是向全体Matataki用户所开放的平台治理工具！</p><p>从内容的持币/付币解锁，到现在的质押META解锁管理后台，我们在代币的令牌属性上发现了越来越多cool 时刻，越来越多得在打破我们认为的理所当然的模式，将对个人价值掌控在自己手中， 对我付出了贡献的产品就能获得一定的治理权利，我们逐步将权利交还给了用户，这也正是我们 Andoromeda仙女座科技公司的使命：Give the power back to users。</p><h2 id="1-Matataki-Governace-治理委员会">1. Matataki Governace 治理委员会</h2><p>Matataki长久以来都是基于一套中心化的系统对内容进行治理，这对于一个线上的内容创作平台来说是一件再正常不过的事情了。然而 Matataki 一直都倡导公开和自由的精神，因此我们不仅仅要实现内部治理，同时还希望开放治理的权限给所有的符合资质的平台贡献者！此次我们对 Matataki的原生管理后台进行了些许改造，让任何满足条件的用户都可以参与基本的生态治理，并且所有的治理操作都可以实时生效。</p><p>目前 Matataki Governace 仅对持有 META代币 的用户开放。这样一来不仅可以做到高效率决策+线上执行 ，同时还与Matataki平台治理代币 $META 进行了深度的绑定，而不让其成为一个仅能用来炒作的“空气币”。</p><p>==Tips ：<a href="https://www.matataki.io/token/120">$META 代币</a>为 Matataki 的平台治理代币，和其他Fan票采用相同的发行方式。目前仅为试运行阶段。目前仅有极少量发行，并且只对有通过参与开发或是参与一些特定的文章活动，以及特殊QUEST奖励可以获得，暂无任何公开的售卖渠道。==</p><h3 id="1-1-基础信息">1.1 基础信息</h3><p>DAPP名称：Matataki 治理委员会 （Matataki Governace）<br>访问方式：通过网址打开，或是通过 <a href="https://matataki.io/dapp">DAPP页面</a>打开<br>网站地址：<a href="https://governance.matataki.io/">https://governance.matataki.io/</a><br>开发阶段：alpha预览版<br>版本号：1.0.0<br>网络环境：BSC（币安智能链）Mainnet<br>准入条件：质押 1 META<br>META的主页：<a href="https://www.matataki.io/token/120">https://www.matataki.io/token/120</a><br>BSC网络下META地址：<a href="https://bscscan.com/token/0xacae234ea5fddd1657038b7aa6b597664056c954">0xacae234ea5fddd1657038b7aa6b597664056c954</a><br>反馈地址：<a href="https://github.com/Matataki-io/Matataki-FE/discussions/1018">https://github.com/Matataki-io/Matataki-FE/discussions/1018</a></p><h3 id="1-2-参与治理前置条件">1.2 参与治理前置条件</h3><ol><li>使用电脑浏览器，推荐Chrome</li><li>安装了 Metamask 钱包插件</li><li>添加并切换到 BSC（币安智能链），并有一点点手续费 | <a href="https://bscscan.com/token/0xacae234ea5fddd1657038b7aa6b597664056c954">BSC连接教程</a></li><li>在 Matataki 钱包或是 BSC 网络中持有至少1个<a href="https://www.matataki.io/token/120">$META 代币</a></li></ol><p>==Tips ：如果你希望获得一些测试用的 <a href="https://www.matataki.io/token/120">$META 代币</a>，可以尝试在文章下方留言，你至少需要发布过1篇原创的完整文章。==<br>或者来完成这两个任务：<br><a href="https://quest.matataki.io/40">https://quest.matataki.io/40</a><br><a href="https://quest.matataki.io/31">https://quest.matataki.io/31</a></p><h3 id="1-3-如何成为治理者">1.3 如何成为治理者</h3><ol><li><p>首先你需要满足上述的前置条件</p></li><li><p>将 <a href="https://www.matataki.io/token/120">$META 代币</a> 代币提现到BSC钱包中 | <a href="https://matataki.io/p/5834">如何将Fan票提现到BSC网络</a></p></li><li><p>在 Chrome浏览器中打开 <a href="https://governance.matataki.io/">Matataki Goverance</a>网站，并点击“去质押META以获得权限”</p><ul><li><img src="https://ipfs.fleek.co/ipfs/QmZDSAQ8xdCbGn1uWnLR1zBJXiUxAQtjxSZCeWAY3KjAKP" alt="image.png"></li></ul></li><li><p>在质押页面中根据引导进行质押，这时候需要支付一点点BNB手续费</p><ul><li><img src="https://ipfs.fleek.co/ipfs/QmSmVXfu1xfPhnLVUPEFFGWftpKW1modN5isDDD4uiD819" alt="image.png"></li></ul></li><li><p>完成质押后返回上一页并点击“使用Metamask一键登录”按钮（链下签名无需手续费）</p></li></ol><p>恭喜你，到这一步你就已经可以进入管理页面啦</p><h3 id="1-4-治理功能介绍">1.4 治理功能介绍</h3><p><strong>用户治理</strong><br>您可以定向筛查到对应的用户后，点击控制区的按钮来开关是否推荐此用户。<br>被推荐的用户会在头像上出现“V”标记，并且会出现在动态页面的推荐位上<br><img src="https://ipfs.fleek.co/ipfs/QmXod4SNhuN7TUwXb3a78dMxqW9UDDoY2aoo13V3HfWAjt" alt="image.png"></p><p><strong>内容治理</strong><br>您可以定向筛查到对应的文章后，点击控制区的按钮来开关是否推荐此文章<br>被推荐的文章会按照发布顺序出现在首页的顶部推荐位，并且在文章详情页面中会出现“精选”标记<br><img src="https://ipfs.fleek.co/ipfs/QmVvZgJBRZ1xEXNe7JvPnYHMZ1jdHdDzh8vGnu7qzVGL2g" alt="image.png"></p><h2 id="2-治理的形式和工具">2. 治理的形式和工具</h2><p>治理工具 是贯穿于整个去中心化区块链世界的一条关键支线，从 YFI 引爆2020 的 DEFI 生态以来，产品的去中心化治理工具的概念一炮而红，Snapshot在其中扮演了举足轻重的角色，DEFI项目方们在Snapshot上让生态共建者们投票做出一些关键决策。</p><p>由Maker团队带来的DAO（去中心化自治组织）治理形式 则是另一条关键支线，DAO“潮流”也在过去的2020年中越来越火，我们的好朋友 typto 建立的 DAOSquare 在2020年领跑了国内整个DAO行业。理论上来说 DAO 的是更加广泛的治理概念，不仅仅有组织的治理、人的治理 同时也包含了 产品的治理。而 Snapshot 、Aragon 仅仅是作为 DAO 的工具之一，而非核心。</p><p>而 Matataki 苦DAO久已</p><h3 id="2-1-为什么Snapshot不够？">2.1 为什么Snapshot不够？</h3><p>Snapshot是一款非常好的工具，跟随2020年DEFI领域的崛起一炮而红。简单说下Snapshot的模式：基于不同的项目，获得许可的代币持有者可以发起投票提案，在规定时间内完成投票。而其特点之一就是 提案与执行之间的分离，这种特点带来的优势是非常强大的通用性：任何项目、产品甚至个人 的治理都可以采用提案+投票的形式来推进；而Snapshot的劣势就是 治理低效率 以及 无法监测执行结果。这也导致了很多DEFI项目虽然标配Snapshot，但是基本只流于表面化，而不能起到真正有效的治理。</p><p><a href="https://matataki-dao.netlify.app/#/">Matataki DAO</a> 是我们去年推出的一款治理工具，主要面向的是Fan票发行者。采用了和 Snapshot 模式的架构，不同之处在于所有的治理对象都是Fan票，并且独家提供了 二次方投票 治理功能。由于上述的劣势原因 以及 Fan票本身还并不太有关注度的原因，这款工具推出之后我们并未收获想要的效果</p><h2 id="3-Matataki终将羽化成DAO">3. Matataki终将羽化成DAO</h2><p>Matataki 的开发过程经历了从 Group --&gt; Company --&gt; DAO 的阶段，目前正在进行后一阶段的转变。早期大家因为兴趣而聚集在一起，为了追求效率而进行公司形式研发，最终为了多样性而希望再次化身为DAO。当然最早的Group阶段时，我们所面对的DAO领域并非向当前一样绚丽多彩，否则我们可能会在最开始就采用DAO的形式进行组织。</p><p>我们当下的转型仍然是在边试探边推进的过程中小心进行，我们首先推进的是产品的开源化，不仅是代码开源，开发过程也一起开源。同时也提供了各种的生态开发工具，让有想法的伙伴都可以参与进来。 这个计划其实在2个月之前就已经在社区中公布了，也有一些机智聪明的小伙伴做了有意思的Feature；以及网站的i18n工作也是开放协作进行的。</p><p>关于一些讨论和想法都可以来 Matataki 的 Github Discussions 里面来讨论：<a href="https://github.com/Matataki-io/Matataki-FE/discussions">https://github.com/Matataki-io/Matataki-FE/discussions</a></p><p>由于一些历史原因积累下了一些技术债，导致我们的“创意工坊”开放的进度受到制约。不过我们会逐步完善技术的部分，将产品研发彻底转变为DAO模式。关于这点以后我会单独出一片内容来说说，我们会怎么做。</p><p><img src="https://ipfs.fleek.co/ipfs/Qme8mBFamWuwzDr9fW1XxpLv39gqdJHuQwuDcPFw4hQDM5" alt="image.png"></p><h2 id="4-我们的诉求">4. 我们的诉求</h2><p>我们知道当前推出的功能并不能满足各位风纪委员和评审员们的全部需求，但是出于安全考虑我们暂时只提供非常有限的功能。当然我们也知道单纯的只是使用代币准入作为单一的治理门槛会有不妥之处，不过目前已经对展现的信息进行的脱敏处理，并且当前开放的功能只有：为内容添加精选，为用户添加星标。我们希望能够从这个alpha的版本中获取足够的反馈，再来进一步对这个开放治理平台进行设计，让功能自然生长出来。</p><p>我们有计划在未来推出更加丰富的治理决策方式、执行方式，准入方式、权限管控，甚至也有可能结合 <a href="https://matataki-dao.netlify.app/#/">Snapshot</a> + <a href="https://quest.matataki.io/">Matataki QUEST</a> 两套系统协同工作。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;p&gt;Matataki 是一个为创作者打创造的 公开 永存 的数字作品库。2年多以来 Matataki 持续在和所有用户们共同探索下一代价值互联网时代中的“内容”和“创作者”生态形式，我们结合 Fan票（个人发行代币）做出了各种前所未有的功能尝试，为创作</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>【空投福利】用0.01BNB撸一定有空投项目</title>
+    <link href="https://thisislink1.metaspaces.life/post/%E3%80%90%E7%A9%BA%E6%8A%95%E7%A6%8F%E5%88%A9%E3%80%91%E7%94%A80-01BNB%E6%92%B8%E4%B8%80%E5%AE%9A%E6%9C%89%E7%A9%BA%E6%8A%95%E9%A1%B9%E7%9B%AE.html"/>
+    <id>https://thisislink1.metaspaces.life/post/%E3%80%90%E7%A9%BA%E6%8A%95%E7%A6%8F%E5%88%A9%E3%80%91%E7%94%A80-01BNB%E6%92%B8%E4%B8%80%E5%AE%9A%E6%9C%89%E7%A9%BA%E6%8A%95%E9%A1%B9%E7%9B%AE.html</id>
+    <published>2021-10-12T14:52:46.000Z</published>
+    <updated>2021-10-12T14:52:46.213Z</updated>
+    
+    <content type="html"><![CDATA[<p>撸空投（需要投入0.03BNB左右）：</p><h1>福利内容</h1><p>==投票给<br>NASH Protocol Meta Universe 纳什协议——元宇宙<br>项目，项目方承诺一票得到  1000 NAP 空投==<br>空投总量上限30W个，票数溢出后会自动平分空投</p><p>这个空投是一定的，不像别的项目一样，让你等dorahack可能会有的空投，这是实实在在的奖励！兄弟们冲鸭！ 北京时间 3月7号 下午 3点结束投票！</p><h1>教程如下</h1><h2 id="1-准备账户">1. 准备账户</h2><p>a，买点BNB（0.5个左右），下载币安的Trust钱包，注册Smart Chain，然后将BNB提现到钱包地址</p><p>b，注册网站 <a href="https://hackerlink.io">https://hackerlink.io</a></p><p><img src="https://ipfs.fleek.co/ipfs/QmNMJaA2jJvh7DAiZWgYdbszA1mxYsfJ6BWe1LVYQZwKLa" alt="image.png"></p><h2 id="2-给项目投票">2. 给项目投票</h2><p>a，登陆hackerlink后，点主页顶部的「Grant」；</p><p><img src="https://ipfs.fleek.co/ipfs/Qmd9Ex8A2QzVsTKUzWKUpK2oSwzjn2icNvRZzmHGxehUxq" alt="image.png"></p><p>b，往下滑，点「HACKATHON Grant 」，再点「Grant项目」</p><p><img src="https://ipfs.fleek.co/ipfs/QmPgbKYBCsQcz6QZEtXCQTH1LYmp7SxDgQs3f3wKhnsWXL" alt="image.png"></p><p>c，找到「NASH Protocol Meta Universe 纳什协议——元宇宙」，点击「Vote」，点击WalletConnect</p><p><img src="https://ipfs.fleek.co/ipfs/QmUhbjRdCC49J1BruJVEfMe5t3SzXyqiA1tt1q4hTLY6SP" alt="image.png"></p><p>d，打开Trust钱包，点「设置」，选WalletConnect扫码</p><p><img src="https://ipfs.fleek.co/ipfs/QmTr6YQKCGNh2pbJLUUS4MfKRR99cnpXtNbvVKHEVmL2kd" alt="image.png"></p><p>e，电脑端在投入框输入「1」，点「确认投票」，最后，在钱包确认交易即可。</p><p><img src="https://ipfs.fleek.co/ipfs/QmWX1PR6cfRLiG9xR3oqCqmzeh9v6phAnEC51qxc6ZkYW8" alt="image.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;撸空投（需要投入0.03BNB左右）：&lt;/p&gt;
+&lt;h1&gt;福利内容&lt;/h1&gt;
+&lt;p&gt;==投票给&lt;br&gt;
+NASH Protocol Meta Universe 纳什协议——元宇宙&lt;br&gt;
+项目，项目方承诺一票得到  1000 NAP 空投==&lt;br&gt;
+空投总量上限30W个，票</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>瞬Matataki 4.9.0 版本更新报告</title>
+    <link href="https://thisislink1.metaspaces.life/post/%E7%9E%ACMatataki-4-9-0-%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%8A%A5%E5%91%8A.html"/>
+    <id>https://thisislink1.metaspaces.life/post/%E7%9E%ACMatataki-4-9-0-%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%E6%8A%A5%E5%91%8A.html</id>
+    <published>2021-10-12T14:52:46.000Z</published>
+    <updated>2021-10-12T14:52:46.209Z</updated>
+    
+    <content type="html"><![CDATA[<p>[TOC]</p><h1>✨Matataki 4.9.0 版本新功能简报</h1><p><strong>版本号：</strong> 4.9.0 版本<br><strong>开发周期：</strong> 2020年11月9号~2020年11月30号<br><strong>策划人：</strong> 林可、小岛<br><strong>开发者：</strong> Frank、Garfield550、小田、LittleSound、Neko、</p><h2 id="更新内容">更新内容</h2><p><strong>Matataki</strong><br><code>新增</code> 可将文章添加到自定义收藏夹功能</p><p><code>新增</code>  Bilibili + twitter 混合时间轴</p><p><code>新增</code> 在个人主页中默认只展示未下架的内容</p><p><code>优化</code> 修复了Metamask无法登入的bug</p><p><code>优化</code> 移除了“我的账户”–&gt;“收藏夹”路径</p><p><strong>Fan票</strong><br><code>新增</code> 支持Fan票导出到 币安智能链</p><p>==Matataki的平台代币 META 已经内测发行==</p><iframe width="100%" height="200px" src='https://www.matataki.io/widget/token/?id=120' frameborder=0></iframe><h1>📑功能详解</h1><p>下面我将会对上述提到的重点功能进行详细说明</p><h2 id="📜混合时间轴">📜混合时间轴</h2><p>在上一期的开发中，我们已经成功引入了个人的Twitter时间轴，不过在那个版本中，需要进入对方Matataki个人主页中去查看时间轴，并不够方便。因此在这一期中，我们带来了增强版本的混合时间轴</p><h3 id="这是什么">这是什么</h3><p>我们希望将 社交媒体（SocialMedia） 与 社交资金（SocialMoney）打通，因此我们的第一步就是聚合社交媒体的信息。现在我们支持用户通过绑定自己的 Twitter 账号 和 Bilibili 账号 来在 瞬Matataki 上同步自己在 社交媒体上的时间轴。而你的关注者们则可以在 瞬Matataki 上像是查看普通动态一样 同步看到你在多个社交平台上的动态信息。从而 实现 多处操作，一处查看，将你的Fan票价值和你的社交价值 进行绑定。</p><p><img src="https://ipfs.fleek.co/ipfs/QmVBKemorD4kvtMDRi8tV1RPZNgxEGbP1CRehDVyzBrbHk" alt="image.png"></p><h3 id="使用规则">使用规则</h3><p><strong>如何查看混合时间轴</strong><br>在点击导航栏中的 “动态”–&gt;“第三方时间轴” 即可查看。不过只有你关注的对象已经绑定了Twitter账号 和 Bilibili账号 才可以在“第三方时间轴”中查看到他们的动态。</p><p><strong>如何同步 Bilibili 时间轴</strong><br>前往<a href="https://matataki.io/setting/account">账号管理</a>中，在“Matataki Auth 绑定的账号”中即可看到 Bilibili账号的绑定入口，点击之后根据页面提示进行绑定即可。绑定完成后，系统会自动同步时间轴。</p><p>关于Matataki Auth ：这是Matataki的下一代社交聚合验证中心，和主账号不同的是在这里绑定的账号不可用于Matataki登录。</p><p><strong>如何同步 Twitter 时间轴</strong><br>进入你的个人主页打开twitter标签页，然后根据引导的步骤即可完成绑定。</p><ol><li>绑定Twitter账号（绑定后即可使用twitter直接登录）</li><li>授权同步时间线信息<br>绑定完成后，系统会自动同步时间轴</li></ol><p>注意事项<br>目前 此功能 还在测试中，可能存在使用上的问题。如果发现了我们的不足或是缺陷，欢迎来<a href="http://andoromeda.mikecrm.com/a93Le8z">表单反馈</a> 。</p><h2 id="🌌Fan票跨链导出至-BSC-币安智能链（Fan票折跃门DAPP）">🌌Fan票跨链导出至 BSC 币安智能链（Fan票折跃门DAPP）</h2><p>瞬Matataki 是 Fan票 的 MotherLand ，通过折跃门后 Fan票 则可以前往更广阔的 星辰大海 ，在不同的位面穿梭（跨链）。</p><p>众所周知，Fan票原生是发行在 以太坊 的 Rinkeby 网络上的。在Defi的浪潮下，Fan票不仅需要在 瞬Matataki游乐场中 使用，还要能够和区块链基础设施接轨。因此将Fan票跨链到以太坊的各种智能链就成为了一项重要的任务。</p><p>在众多的链中，我们优先选择了 BSC 币安智能链，因为在这条链上的交易手续费够低，符合社交代币的 大量&amp;小额 的实际应用场景需求。最初我们选择了Rinkeby而不是以太坊主网也是基于同样的考虑。</p><h3 id="什么是折跃门">什么是折跃门</h3><p>这是 瞬Matataki 推出的 Fan票 跨链导入/导出 工具。目前已经整合了 Rinkeby 和 BSC主网 双向导入导出，目前跨链导出之后Fan票的合约地址会改变，需要去交易记录中手动获取跨链后Fan票地址，未来会支持在前端直接展示。</p><p>==Tips 什么是BSC ：这是币安基于以太坊推出的一条智能链，可以直接通过Metamask插件钱包或是Math麦子手机钱包访问。<a href="https://docs.binance.org/smart-chain/wallet/metamask.html">连接教程</a>==</p><h3 id="如何使用折跃门">如何使用折跃门</h3><p>DAPP地址：<a href="https://matataki.io/token/in-n-out">https://matataki.io/token/in-n-out</a> ,或者是在<a href="https://matataki.io/dapp">DAPP</a>页面中找到 “Fan票折跃门”应用。</p><h4 id="Fan票合约地址">Fan票合约地址</h4><p>打开Fan票的详情页后，点击复制按钮即可获取Hash（合约地址）<br><img src="https://ipfs.fleek.co/ipfs/QmSNhHAdadziAWQmMP92PCfAhuAktjnRTNA3hA9Bw2HtBu" alt="image.png"></p><h4 id="导出至Rinkeby">导出至Rinkeby</h4><ol><li>打开 折跃门后，选择提取至Rinkeby</li><li>准确 选择“类型”、输入“数量”和提取到“目标钱包地址 后确定</li></ol><h4 id="导出至BSC">导出至BSC</h4><p>由于跨链导出的缘故，操作上会稍微复杂些</p><ol><li>打开 折跃门后，选择提取至BSC</li><li>打开 你的Metamask钱包，并切换到BSC正式网，同时确保钱包里有少量的BNB用于支付手续费</li><li>准确 选择“类型”、输入“数量”和提取到“目标钱包地址 后确定。此时系统会下发“跨链转账许可”。<br>a. 如果你就是提取的目标钱包，点击左边的按钮即可。<br>b. 如果你是要提取到别人的钱包中，则点击右侧按钮复制许可，将许可发送给需要提取Fan票的人。</li></ol><p><img src="https://ipfs.fleek.co/ipfs/QmPBacQHnqt98SpN7LopekJLAPsn4FtoEPB3iQ3S26dBx1" alt="image.png"></p><ol start="4"><li>如果你是 3.a 的操作的话，根据界面引导点击“上传许可”后，在弹出的钱包界面中签名（需支付手续费）即可。</li></ol><p><img src="https://ipfs.fleek.co/ipfs/QmWJ24cHBbfpST4Xa4aaHR1j2DsvWAvwYnmHiheNwUWGCQ" alt="image.png"></p><ol start="5"><li>如果你是 3.b 的操作的话，则让你的朋友进入下图所示的“替别人体现许可”页面，粘贴许可信息后即可自动解析，根据引导点击“上传许可”后，在弹出的钱包界面中签名（需支付手续费）即可。</li></ol><p><img src="https://ipfs.fleek.co/ipfs/QmPeHKg6T8r9BwQwW3ACWPNiMxpWimxKjEJBYpNymxiSuY" alt="image.png"></p><h4 id="从Rinkeby导入">从Rinkeby导入</h4><ol><li>打开 折跃门后，选择从Rinkeby转入</li><li>复制页面中你的托管钱包地址（这是Matataki平台生成的属于你的托管钱包）</li><li>使用钱包从Rinkeby向托管钱包地址转账 Fan票(请勿转入非Fan票的代币！无法找回)并复制转账交易的Hash</li><li>在 折跃门 中填入转账交易的Hash并确定</li></ol><h4 id="从BSC导入">从BSC导入</h4><p>功能仍在准备中</p><h3 id="导出到BSC上可以交易么">导出到BSC上可以交易么</h3><p>是的，推荐使用 Unisave 交易所（这是由我们团队独立开发的交易所），拥有超低滑点、<br>交易所地址：<a href="https://app.unisave.exchange/">https://app.unisave.exchange/</a></p><h2 id="📚自定义收藏夹">📚自定义收藏夹</h2><p>瞬Matataki上产出了数量庞大的优质内容，因此我们升级了收藏夹。现在你可以自己创任意数量且具有权限的收藏夹了，也可以将一篇文章收藏到多个收藏夹中方便归类检索。</p><p><img src="https://ipfs.fleek.co/ipfs/QmXjh5zb9cLd1vsL6tP6n3adHnaHcSU5TsR78zKqYK4q9F" alt="image.png"></p><h1>📬想说的话</h1><h2 id="关于SocialMoney">关于SocialMoney</h2><p>最近看到越来越多的 SocialMoney 领域的创新力量都在崛起，我们很高兴走在一条逐渐被认可和接受的道路上。在过去这段时间中，总共新增了10支Fan票。而在Matataki的平台上总共已经发行了98支Fan票，感谢大家的支持和信任。有特别多的社区小伙伴在给我们的产品线出谋划策，甚至还有自己直接动手在我们的基础上进行二次开发的朋友。非常感谢小伙伴们的支持！</p><iframe width="100%" height="180" src='https://www.matataki.io/widget/?id=5779&invite=9&referral=9' frameborder=0></iframe><p>我们接下来会将主要精力用在为Fan票搭建更多应用场景。这是一条人迹罕至的道路，在这里的商业模式和应用场景都还不够明确，需要我们这样的先行者去探索和试验。我们的目标是让所有人都可以无忧以及轻松的去使用Fan票，而不仅仅是区块链的原住民的玩具。在新的商业模式和应用场景下，几乎所有的基础设施都需要我们自己搭建，不过亲手去建造理想中的世界也正是我们这帮人的 乐趣所在 。这个赛道还很早期，没有成熟的规则，希望大家一起放轻松，感受其中的乐趣所在。</p><p>在 Matataki 上基于 Fan票 产生了无数的创作，但是 Matataki 提供的 Blog 形式不足以支撑社群小伙伴们的各种 观察 和 Idea 沉淀。因此我创建了一个语雀组织 <a href="https://www.yuque.com/socialmoney">SocialMoney?研究协会</a> ，欢迎收藏或申请加入。</p><p><strong>小作业：</strong> 你关于 Fan票 或是 SocialMoney 有过哪些未曾设想的道路？欢迎在评论区将你的想法告诉我们</p><h2 id="关于瞬Matataki">关于瞬Matataki</h2><p>瞬Matataki最初是被当做SocialMoney（Fan票）的试验场创造出来的，以平台的身份进入内容创作这个行业算是误打误撞，因此Matataki长久以来一直对几乎所有方向 &amp; 内容形式 的创作都抱有极高的包容度，也正是如此塑造出了 瞬Matataki 独有的气质。很多人是被基于IPFS的永久存储特性吸引过来的，阅文、马文亮、AO3 事件分别是几次重要的节点，为我们带来了很多很棒的小伙伴。我希望这样的气质可以持续保持下去，这可能就是独属于我们的内容定位。</p><p>在过去的2年中我们持续对 瞬Matataki 进行方向上的探索，我们探索留下的足迹也导致不同系统之间的耦合程度非常高。我们希望有更多的社区伙伴可以参与到Fan票和Matataki的生态建设中来，因此我们决定在足够无忧的情况下，会花费一段时间对 瞬MAtataki的整站各个模块之间完全解耦。</p><p>瞬Matataki作为内容平台功能本身还有很多的不完善，内容运营和刷存在感方面我们也没有足够的精力去顾及到。但是我们绝对不会忘记在这里还对我们保有极大期望的小伙伴们，这个产品就像是青春期的孩子，有着各种不成熟的时候，也有着各种各样的焦虑。但是我们总会长大。希望给大家带来令人满意的产品。</p><p><strong>小作业 ：</strong> 在你们心目中的 瞬Matataki 是怎样的平台？欢迎在评论区将你的想法告诉我们</p><p><strong>附加作业：</strong> 很多朋友反馈 瞬Matataki 这个名字不好记不好念，那么如果是你来我们取名，你会取什么名字呢？</p><p>==所有参与小作业的伙伴们都会得到平台Fan票 META 的打赏==</p><hr><p>来更新一波打赏的截图<br>以下的16名小伙伴都已经被打赏了 2 META 代币，当前数量非常稀少。按照稳中的方法使用<a href="https://matataki.io/token/in-n-out">Fan票折跃门</a> 导出到BSC币安智能链上使用 <a href="https://app.unisave.exchange/">Unisave交易所</a>交易。META代币交易 <a href="https://bsc-info.unisave.exchange/pair/0x3d9b56dfea016367c40e12c725a94bb09efcc3e0">直达链接</a></p><p><img src="https://ipfs.fleek.co/ipfs/QmeHtR2WnQReECGTrDe6rPZJkEBieiqvEEiPzjYbQ2PT7E" alt="image.png"></p><p><img src="https://ipfs.fleek.co/ipfs/QmWY5safQ2X5i2Ny2VEuP24J5GgntHMGyhfSwjCwpq512U" alt="image.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1&gt;✨Matataki 4.9.0 版本新功能简报&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;版本号：&lt;/strong&gt; 4.9.0 版本&lt;br&gt;
+&lt;strong&gt;开发周期：&lt;/strong&gt; 2020年11月9号~2020年11月30号&lt;br&gt;
+&lt;stron</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>给我打钱！测试余额</title>
+    <link href="https://thisislink1.metaspaces.life/post/%E7%BB%99%E6%88%91%E6%89%93%E9%92%B1%EF%BC%81%E6%B5%8B%E8%AF%95%E4%BD%99%E9%A2%9D.html"/>
+    <id>https://thisislink1.metaspaces.life/post/%E7%BB%99%E6%88%91%E6%89%93%E9%92%B1%EF%BC%81%E6%B5%8B%E8%AF%95%E4%BD%99%E9%A2%9D.html</id>
+    <published>2021-10-12T14:52:46.000Z</published>
+    <updated>2021-10-12T14:52:46.172Z</updated>
+    
+    <content type="html"><![CDATA[<p>向我开炮！<br>向我开炮！<br>向我开炮！<br>向我开炮！<br>向我开炮！<br>向我开炮！<br>向我开炮！<br>向我开炮！<br>向我开炮！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;向我开炮！&lt;br&gt;
+向我开炮！&lt;br&gt;
+向我开炮！&lt;br&gt;
+向我开炮！&lt;br&gt;
+向我开炮！&lt;br&gt;
+向我开炮！&lt;br&gt;
+向我开炮！&lt;br&gt;
+向我开炮！&lt;br&gt;
+向我开炮！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>美好的一天从智能签名开始</title>
+    <link href="https://thisislink1.metaspaces.life/post/%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%E4%BB%8E%E6%99%BA%E8%83%BD%E7%AD%BE%E5%90%8D%E5%BC%80%E5%A7%8B.html"/>
+    <id>https://thisislink1.metaspaces.life/post/%E7%BE%8E%E5%A5%BD%E7%9A%84%E4%B8%80%E5%A4%A9%E4%BB%8E%E6%99%BA%E8%83%BD%E7%AD%BE%E5%90%8D%E5%BC%80%E5%A7%8B.html</id>
+    <published>2021-10-12T14:52:46.000Z</published>
+    <updated>2021-10-12T14:52:46.188Z</updated>
+    
+    <content type="html"><![CDATA[<p>九头蛇万岁！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;九头蛇万岁！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>还有新的文章么</title>
+    <link href="https://thisislink1.metaspaces.life/post/%E8%BF%98%E6%9C%89%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0%E4%B9%88.html"/>
+    <id>https://thisislink1.metaspaces.life/post/%E8%BF%98%E6%9C%89%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0%E4%B9%88.html</id>
+    <published>2021-10-12T14:52:46.000Z</published>
+    <updated>2021-10-12T14:52:46.172Z</updated>
+    
+    <content type="html"><![CDATA[<p>123</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;123&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>IPFS Images</title>
+    <link href="https://thisislink1.metaspaces.life/post/IPFS-Images.html"/>
+    <id>https://thisislink1.metaspaces.life/post/IPFS-Images.html</id>
+    <published>2021-10-09T06:43:43.000Z</published>
+    <updated>2021-10-13T12:01:13.011Z</updated>
+    
+    <content type="html"><![CDATA[<p>IPFS Images test md</p><!-- ipfs fleek --><p><img src="https://ipfs.fleek.co/ipfs/bafybeih5r5pyi6kkglocngk4hqidvjudhe3ufznehc2ighaiwjst4ne66q" alt=""></p><!-- ipfs --><p><img src="https://ipfs.fleek.co/ipfs/bafybeih5r5pyi6kkglocngk4hqidvjudhe3ufznehc2ighaiwjst4ne66q" alt=""></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;IPFS Images test md&lt;/p&gt;
+&lt;!-- ipfs fleek --&gt;
+&lt;p&gt;&lt;img src=&quot;https://ipfs.fleek.co/ipfs/bafybeih5r5pyi6kkglocngk4hqidvjudhe3ufznehc2ighaiwjst</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
